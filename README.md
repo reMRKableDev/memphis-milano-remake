@@ -2,7 +2,9 @@
 
 ## Description
 
-A brief description of what this project does and who it's for.
+This project is a re-make of the (Memphis Milano website)[https://memphis.it/en/]
+
+## Getting Started
 
 ## Installation
 
